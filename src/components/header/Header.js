@@ -9,7 +9,6 @@ import {
   skillsSection,
   blogSection,
   achievementSection,
-  resumeSection,
   educationInfo
 } from "../../portfolio";
 
