@@ -213,21 +213,39 @@ const achievementSection = {
       subtitle:
         "Attained the Advanced Software Technology Diploma from CSC Education",
       image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo"
+      imageAlt: "Google Code-In Logo",
+        footerLink: [
+        {
+          name: "View Google Assistant Action",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
     },
     {
       title: "Diploma in C Programming",
       subtitle:
         "Attained the C Programming Diploma from CSC Education.",
       image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo"
+      imageAlt: "Google Assistant Action Logo",
+        footerLink: [
+        {
+          name: "View Google Assistant Action",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
     },
 
     {
       title: "Architecting with Google Compute Engine",
       subtitle: "Completed Certifcation in Google Compute Engine",
       image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo"
+      imageAlt: "PWA Logo",
+        footerLink: [
+        {
+          name: "View Google Assistant Action",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
