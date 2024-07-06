@@ -124,21 +124,15 @@ const educationInfo = {
     {
       schoolName: "PSNA College of Engineering and Technology",
       logo: require("./assets/images/PSNACET.png"),
-      subHeader: "Master of Science in Computer Science",
+      subHeader: "Computer Science and Business Systems",
       duration: "November 2021 - May 2025",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Attended various workshop & conference"
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "TMHNU Matriculation Higher Secondary School",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "June 2020 - March 2021",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Higher Secondary",
+      duration: "June 2020 - March 2021"
     }
   ]
 };
