@@ -186,12 +186,12 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/snake.jpg"),
       projectName: "Slithering Serpent Challenge",
       projectDesc: "Dodge obstacles with your serpent in the Slithering Serpent Challenge app"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/cash.png"),
       projectName: "CashFlow Convert",
       projectDesc: "Optimize cash flow with CashFlow Convert"
     }
