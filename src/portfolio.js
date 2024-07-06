@@ -138,7 +138,7 @@ const educationInfo = {
       schoolName: "SRV Matric Higher Secondary School",
       logo: require("./assets/images/SecondaySchool.jpg"),
       subHeader: "10th Grade",
-      duration: "June 2020 - March 2021"
+      duration: "June 2018 - March 2019"
     }
   ]
 };
