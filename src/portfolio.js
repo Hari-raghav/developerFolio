@@ -188,12 +188,12 @@ const bigProjects = {
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Slithering Serpent Challenge",
-      projectDesc: "Dodge obstacles with your serpent in the Slithering Serpent Challenge app",
+      projectDesc: "Dodge obstacles with your serpent in the Slithering Serpent Challenge app"
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "CashFlow Convert",
-      projectDesc: "Optimize cash flow with CashFlow Convert",
+      projectDesc: "Optimize cash flow with CashFlow Convert"
     }
   ],
   display: true // Set false to hide this section, defaults to true
