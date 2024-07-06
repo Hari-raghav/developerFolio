@@ -64,9 +64,11 @@ function Header() {
               <a href="#blogs">Blogs</a>
             </li>
           )}
-          {viewResume && (
+          {greeting.resumeLink && (
             <li>
-              <a href="#resume">Resume</a>
+             <a
+                    href={greeting.resumeLink}
+                    download="Resume.pdf">Resume</a>
             </li>
           )}
           <li>
