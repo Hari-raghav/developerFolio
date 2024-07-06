@@ -23,7 +23,7 @@ const greeting = {
   username: "Bavithra",
   title: "Hi all, I'm Bavithra",
   subTitle: emoji(
-    "A passionate Python Developer 🚀 having an experience of building Web and Mobile applications with Python with some other cool libraries and frameworks."
+    "A passionate Python Developer 🚀 with experience in building web and mobile applications using Python, along with other advanced libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/uc?export=download&id=1tsJaHYn7UiTowkPGQEX-bDdXyvVAUfhr", // Set to empty to hide the button
@@ -85,20 +85,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
