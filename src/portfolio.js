@@ -274,7 +274,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+9345142279",
+  number: "9345142279",
   email_address: "bavithrap21cb@psnacet.edu.in"
 };
 
