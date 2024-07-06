@@ -238,7 +238,7 @@ const achievementSection = {
     {
       title: "Architecting with Google Compute Engine",
       subtitle: "Completed Certifcation in Google Compute Engine",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/gce.png"),
       imageAlt: "PWA Logo",
         footerLink: [
         {
