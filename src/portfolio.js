@@ -130,7 +130,7 @@ const educationInfo = {
     },
     {
       schoolName: "TMHNU Matriculation Higher Secondary School",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/HigherSecSchool.jpg"),
       subHeader: "Higher Secondary",
       duration: "June 2020 - March 2021"
     }
