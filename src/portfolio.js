@@ -123,7 +123,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "PSNA College of Engineering and Technology",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/PSNACET.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "November 2021 - May 2025",
       desc: "Participated in the research of XXX and published 3 papers.",
