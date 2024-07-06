@@ -209,23 +209,23 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Diploma in Advanced Software Technology",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Attained the Advanced Software Technology Diploma from CSC Education",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
     },
     {
-      title: "Google Assistant Action",
+      title: "Diploma in C Programming",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "Attained the C Programming Diploma from CSC Education.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      title: "Architecting with Google Compute Engine",
+      subtitle: "Completed Certifcation in Google Compute Engine",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
     }
