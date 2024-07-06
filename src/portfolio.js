@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Python Developer 🚀 having an experience of building Web and Mobile applications with Python with some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1tsJaHYn7UiTowkPGQEX-bDdXyvVAUfhr/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/uc?export=download&id=1tsJaHYn7UiTowkPGQEX-bDdXyvVAUfhr", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
