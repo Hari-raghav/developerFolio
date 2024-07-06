@@ -215,10 +215,7 @@ const achievementSection = {
       image: require("./assets/images/DCSC.jpg"),
       imageAlt: "Google Code-In Logo",
         footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
+        
       ]
     },
     {
