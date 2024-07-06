@@ -136,7 +136,7 @@ const educationInfo = {
     },
      {
       schoolName: "SRV Matric Higher Secondary School",
-      logo: require("./assets/images/SecondaySchool.jpg"),
+      logo: require("./assets/images/SecondaySchool.png"),
       subHeader: "10th Grade",
       duration: "June 2018 - March 2019"
     }
