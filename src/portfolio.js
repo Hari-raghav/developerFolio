@@ -225,7 +225,7 @@ const achievementSection = {
       title: "Diploma in C Programming",
       subtitle:
         "Attained the C Programming Diploma from CSC Education.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/cprogram.jpg"),
       imageAlt: "Google Assistant Action Logo",
         footerLink: [
         {
