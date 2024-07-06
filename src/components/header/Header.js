@@ -19,7 +19,6 @@ function Header() {
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
-  const viewResume = resumeSection.display;
   const viewEducation = educationInfo.display;
 
   return (
