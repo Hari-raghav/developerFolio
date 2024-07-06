@@ -11,7 +11,7 @@ import {
   blogSection,
   achievementSection,
   resumeSection,
-  educationCard
+  educationInfo
 } from "../../portfolio";
 
 function Header() {
@@ -22,7 +22,7 @@ function Header() {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewResume = resumeSection.display;
-  const viewEducation = educationCard.display;
+  const viewEducation = educationInfo.display;
 
   return (
     <Headroom>
