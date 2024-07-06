@@ -172,6 +172,7 @@ const workExperiences = {
     {
       role: "Full Stack Developer Intern",
       company: "VEI Technologies",
+      companylogo: require("./assets/images/vei.jpg"),
       date: "June 2023 – July 2023",
       desc: "Tech Stack: HTML ,CSS, MongoDB ,Node.js ,Git, Java script.",
       descBullets: [
