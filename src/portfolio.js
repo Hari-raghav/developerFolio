@@ -212,7 +212,7 @@ const achievementSection = {
       title: "Diploma in Advanced Software Technology",
       subtitle:
         "Attained the Advanced Software Technology Diploma from CSC Education",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/DCSC.jpg"),
       imageAlt: "Google Code-In Logo",
         footerLink: [
         {
