@@ -9,9 +9,9 @@ const GithubProfileCard = lazy(() =>
 );
 export default function Profile() {
   const [prof, setrepo] = useState([]);
-  function setProfileFunction(array) {
-    setrepo(array);
-  }
+  // function setProfileFunction(array) {
+  //   setrepo(array);
+  // }
 
   useEffect(() => {
     // if (openSource.showGithubProfile === "true") {
