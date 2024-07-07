@@ -100,7 +100,7 @@ const educationInfo = {
     {
       schoolName: "PSNA College of Engineering and Technology",
       logo: require("./assets/images/PSNACET.png"),
-      subHeader: "Computer Science and Business Systems",
+      subHeader: "B.E - Computer Science and Business Systems",
       duration: "November 2021 - May 2025",
       desc: "Attended various workshop & conference"
     },
